@@ -10,7 +10,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Optimized for Claude](https://img.shields.io/badge/Optimized%20for-Claude-blueviolet)](https://claude.ai)
-[![Made without code](https://img.shields.io/badge/Built%20without-a%20single%20line%20of%20code-black)](https://klai.me)
+[![Made without code](https://img.shields.io/badge/Built%20without-a%20single%20line%20of%20code-black)](https://sendklai.me)
 
 ---
 
@@ -122,7 +122,7 @@ If this changed how you see AI —
 some people stop here.
 Some people go deeper.
 
-**If you're the second type — [let's talk](https://klai.me)**
+**If you're the second type — [let's talk](https://sendklai.me)**
 
 ---
 
@@ -161,7 +161,7 @@ This methodology has an origin. Respect it.
 ## License
 
 **CC BY-NC 4.0** — Free to use and adapt for personal or team use.
-For commercial deployment or organizational implementation → [klai.me](https://klai.me)
+For commercial deployment or organizational implementation → [sendklai.me](https://sendklai.me)
 
 ---
 
@@ -176,4 +176,4 @@ Using Claude as a co-architect, not a tool.
 
 That's kind of the whole point.
 
-→ [klai.me](https://klai.me)
+→ [sendklai.me](https://sendklai.me)
