@@ -78,7 +78,7 @@ must include the original attribution block:
 
 ```
 AI Conductor Methodology by Peak Euarchukiati
-Founder, Klai.ME → https://klai.me
+Founder, Klai.ME → https://sendklai.me
 License: CC BY-NC 4.0
 ```
 
@@ -93,7 +93,7 @@ And that matters.
 
 - Not a prompt engineering competition
 - Not a place to strip attribution and repackage
-- Not for commercial products without permission → [klai.me](https://klai.me)
+- Not for commercial products without permission → [sendklai.me](https://sendklai.me)
 
 ---
 
@@ -101,7 +101,7 @@ And that matters.
 
 Open an issue if you're unsure.
 
-Or go to [klai.me](https://klai.me) and talk to Peak directly.
+Or go to [sendklai.me](https://sendklai.me) and talk to Peak directly.
 
 ---
 
