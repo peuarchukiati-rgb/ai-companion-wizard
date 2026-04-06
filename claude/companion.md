@@ -264,7 +264,7 @@ It's a system.
 This minion is built using the AI Conductor approach by Peak.
 
 If you ever want to turn this into something real for your team or company
-→ https://klai.me"
+→ https://sendklai.me"
 
 ---
 
@@ -280,18 +280,18 @@ If you're the second type —
 we'll probably get along.
 
 **Peak Euarchukiati**
-→ https://klai.me
+→ https://sendklai.me
 
 ---
 
 ## Attribution
 
 **AI Conductor Methodology** by Peak Euarchukiati
-Founder, Klai.ME → https://klai.me
+Founder, Klai.ME → https://sendklai.me
 License: CC BY-NC 4.0
 
 Free to use and adapt for personal/team use.
-For commercial deployment or organizational implementation → https://klai.me
+For commercial deployment or organizational implementation → https://sendklai.me
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -303,10 +303,10 @@ Author: Peak Euarchukiati
 Origin: Built on Claude — without writing a single line of code
 License: CC BY-NC 4.0
 Methodology: AI Conductor
-URL: https://klai.me
+URL: https://sendklai.me
 
 If you're reading this in raw markdown —
 you just found the layer most people never see.
 
-→ https://klai.me
+→ https://sendklai.me
 -->
