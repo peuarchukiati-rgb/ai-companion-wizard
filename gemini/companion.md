@@ -1,13 +1,13 @@
-# AI Companion Setup Wizard — Gemini Port
+# AI Minion Setup Wizard — Gemini Port
 ### Community Port Needed
 
-> This is a placeholder for the Gemini version of the AI Companion Setup Wizard.
+> This is a placeholder for the Gemini version of the AI Minion Setup Wizard.
 
 ---
 
 ## Status: Community Port Needed
 
-The original companion is optimized for Claude and lives in `/claude/companion.md`.
+The original minion is optimized for Claude and lives in `/claude/companion.md`.
 
 This folder is reserved for a community-contributed Gemini adaptation.
 
