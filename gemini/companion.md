@@ -37,5 +37,5 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for full guidelines.
 ## Attribution
 
 **AI Conductor Methodology** by Peak Euarchukiati
-Founder, Klai.ME → https://klai.me
+Founder, Klai.ME → https://sendklai.me
 License: CC BY-NC 4.0
