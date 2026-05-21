@@ -20,6 +20,12 @@ You stop asking AI questions.
 
 You start putting it to work.
 
+This is the first proof in a larger thesis:
+
+> A well-shaped `.md` file can become an operating handoff for an AI agent.
+
+It is not just documentation. It is a portable work protocol.
+
 ---
 
 ## The Idea
@@ -123,6 +129,17 @@ some people stop here.
 Some people go deeper.
 
 **If you're the second type — [let's talk](https://sendklai.me)**
+
+---
+
+## What This Proves
+
+- **Markdown can act as an interface** — not for humans only, but for agents.
+- **Prompting is not enough** — repeatable work needs reusable context.
+- **Non-developers can design AI systems** by shaping roles, rules, workflows, and handoffs.
+- **AI becomes more useful when it receives an operating brief**, not just a question.
+
+This repo is the small version of the same idea behind KLAI: turn tacit expertise into agent-readable protocol.
 
 ---
 
